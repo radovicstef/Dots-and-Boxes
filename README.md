@@ -13,22 +13,22 @@ It is written in Java and uses JavaSwing for visual interpretation.
 ## Screenshots
 
 <p align="center">
- <img src="https://github.com/stefanlalov/Dots-and-Boxes/blob/master/screenshots/1.png">
+ <img width=50% src="https://github.com/stefanlalov/Dots-and-Boxes/blob/master/screenshots/1.png">
 </p>
 <hr>
 <p align="center">
- <img src="https://github.com/stefanlalov/Dots-and-Boxes/blob/master/screenshots/2.png">
+ <img width=50% src="https://github.com/stefanlalov/Dots-and-Boxes/blob/master/screenshots/2.png">
 </p>
 <hr>
 <p align="center">
- <img src="https://github.com/stefanlalov/Dots-and-Boxes/blob/master/screenshots/3.png">
+ <img width=50% src="https://github.com/stefanlalov/Dots-and-Boxes/blob/master/screenshots/3.png">
 </p>
 <hr>
 <p align="center">
- <img src="https://github.com/stefanlalov/Dots-and-Boxes/blob/master/screenshots/5.png">
+ <img width=50% src="https://github.com/stefanlalov/Dots-and-Boxes/blob/master/screenshots/5.png">
 </p>
 <hr>
 <p align="center">
- <img src="https://github.com/stefanlalov/Dots-and-Boxes/blob/master/screenshots/6.png">
+ <img width=50% src="https://github.com/stefanlalov/Dots-and-Boxes/blob/master/screenshots/6.png">
 </p>
 
